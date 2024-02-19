@@ -1,2 +1,2 @@
 # AR Instruction Authoring Systems
-Two Unity projects made for a user study presented in a CHI2024 paper "On the Benefits of Image-Schematic Metaphors when Designing Mixed Reality Systems".
+Two Unity projects from our user study presented in "On the Benefits of Image-Schematic Metaphors when Designing Mixed Reality Systems" at CHI2024.
