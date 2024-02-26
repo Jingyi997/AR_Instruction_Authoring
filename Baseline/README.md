@@ -1,7 +1,7 @@
 # GENERAL INFORMATION
 This is the Unity project used in the user study (baseline condition) presented in a CHI2024 paper ''On the Benefits of Image-Schematic Metaphors when Designing Mixed Reality Systems".
 
-#FOLDER AND FILES STRUCTURE
+# FOLDER AND FILES STRUCTURE
 
 The "Baseline"/"ISM-Enhanced" project is streamlined to include only the essential folders required for development and collaboration. Below is an overview of these folders:
 
@@ -14,10 +14,7 @@ This folder holds all the Unity packages currently used in the project. This inc
 C. ProjectSettings [Folder]
 This folder Contains all the configuration files for your project settings. This includes settings for aspects like physics, graphics, input, and player preferences. These settings are global and affect the entire project, ensuring that the project behaves consistently across different environments and platforms.
 
-D. .gitignore [GITIGNORE file]
-This file maintains the cleanliness and efficiency of the project repository when using version control systems like Git. The .gitignore file is designed to tell Git which files and directories to ignore when committing changes.
-
-#OPENING AND USING THE PROJECT
+# OPENING AND USING THE PROJECT
 
 To get started with the "Baseline"/"ISM-Enhanced" Unity project, follow these simple steps:
 
