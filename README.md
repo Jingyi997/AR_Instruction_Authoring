@@ -4,19 +4,6 @@ This repo contains two Mixed-Reality assembly instruction authoring applications
 
 The two applications were employed in a user study presented in "On the Benefits of Image-Schematic Metaphors when Designing Mixed Reality Systems" at CHI2024.
 
-# FOLDER AND FILES STRUCTURE
-
-The "Baseline"/"ISM-Enhanced" project is streamlined to include only the essential folders required for development and collaboration. Below is an overview of these folders:
-
-A. Assets [Folder]
-This folder contains all project-specific assets, including scenes, scripts, materials, textures, and prefabs. This is the primary directory where development work occurs, as it houses the content you create or import for your project.
-
-B. Packages [Folder]
-This folder holds all the Unity packages currently used in the project. This includes both Unity's official packages and any third-party packages necessary for the project.
-
-C. ProjectSettings [Folder]
-This folder Contains all the configuration files for your project settings. This includes settings for aspects like physics, graphics, input, and player preferences. These settings are global and affect the entire project, ensuring that the project behaves consistently across different environments and platforms.
-
 # OPENING AND USING THE PROJECT
 
 To get started with the "Baseline"/"ISM-Enhanced" Unity project, follow these simple steps:
