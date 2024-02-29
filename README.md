@@ -31,4 +31,4 @@ To get started with the "Baseline"/"ISM-Enhanced" Unity project, follow these si
 
 5. Once the project is open in the Unity Editor, go to the 'Assets' folder, select the main scene named "MainScene" and hold and drag "MainScene" to the hierarchy. If Unity auto-generated any new empty scene in the hierarchy, please right-click and remove the empty scene.
 
-6. When using the "Baseline_System" project, an extra step is required to enable hand-dwell button selection. Firstly, select any button under "MixedRealitySceneContent" in the hierarchy, then go to the "DwellHandler" section in the "Inspector", and choose "Hand" for "Dwell Trigger Pointer Type". You can also adjust parameters like "Dwell Start Delay" in the same section.
+6. When using the "Baseline" project, an extra step is required to enable hand-dwell button selection. Firstly, select any button under "MixedRealitySceneContent" in the hierarchy, then go to the "DwellHandler" section in the "Inspector", and choose "Hand" for "Dwell Trigger Pointer Type". You can also adjust parameters like "Dwell Start Delay" in the same section.
